@@ -52,9 +52,6 @@ I am a dedicated student at ITB Stikom Bali, driven by a curiosity for technolog
 ### GitHub Trophies 🏆  
 [![trophy](https://github-profile-trophy.vercel.app/?username=purna888&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
-### Activity Graph 📈  
-[![Purna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=purna888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
 ---
 
 ## 🎨 A Bit of Fun  
@@ -72,6 +69,3 @@ I am a dedicated student at ITB Stikom Bali, driven by a curiosity for technolog
 
 ---
 
-### 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/purna888/purna888/blob/output/github-contribution-grid-snake.svg)
