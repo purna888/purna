@@ -72,18 +72,6 @@ I am a dedicated student at ITB Stikom Bali, driven by a curiosity for technolog
 
 ---
 
-### 🔥 Featured Projects  
+### 🐍 Contribution Snake  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=purna888&repo=your-repo-name&theme=vue-dark)](https://github.com/purna888/your-repo-name)  
-
----
-
-## ✨ Dynamic Quotes  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
-</p>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=purna888&style=flat-square&color=blue)
+![Snake animation](https://github.com/purna888/purna888/blob/output/github-contribution-grid-snake.svg)
