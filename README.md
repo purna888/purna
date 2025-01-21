@@ -1,39 +1,89 @@
-# Hi, I'm Purna ! 👋
+# Hi, I'm Purna! 👋  
 
-I am a dedicated student at ITB Stikom Bali, driven by a curiosity for technology and a passion for learning. My journey involves delving into the world of computer science, exploring innovative ideasy.
+I am a dedicated student at ITB Stikom Bali, driven by a curiosity for technology and a passion for learning. My journey involves delving into the world of computer science and exploring innovative ideas.  
 
-![purna888's Stats](https://github-readme-stats.vercel.app/api?username=purna888&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Purna+👋;Aspiring+Full-Stack+Developer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
-- 🔭 I'm currently pursuing my studies in Computer Science at ITB Stikom Bali.
+---
 
-## 🌱 Currently Exploring
+## 📊 GitHub Stats  
 
-- 🚀 Learning Full Stack Web Development
- - Starting with Laravel to build simple and efficient server-side applications.
- - Learning to design modern and responsive interfaces using Tailwind CSS.
- - Exploring JavaScript to add interactivity and functionality to websites.
- - Taking small steps to build a solid foundation in full-stack development
+![purna888's Stats](https://github-readme-stats.vercel.app/api?username=purna888&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purna888&theme=vue-dark&layout=compact&hide_border=true)  
 
-## 📬 Get in Touch
+---
 
-- Connect with me on [Instagram]()
+## 🚀 About Me  
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- 🔭 I'm currently pursuing my studies in Computer Science at ITB Stikom Bali.  
+- 🌱 Passionate about web development, coding, and solving real-world problems.  
 
+---
 
+## 🌱 Currently Exploring  
 
-<!--
+- 🚀 Learning Full Stack Web Development:  
+  - Mastering **Laravel** for building robust server-side applications.  
+  - Designing modern, responsive UIs with **Tailwind CSS**.  
+  - Enhancing interactivity with **JavaScript**.  
+  - Taking small steps to build a strong foundation in web development.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+---
+
+## 🌟 Fun Additions  
+
+### GitHub Trophies 🏆  
+[![trophy](https://github-profile-trophy.vercel.app/?username=purna888&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
+
+### Activity Graph 📈  
+[![Purna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=purna888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
+## 🎨 A Bit of Fun  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
+---
+
+## 📬 Get in Touch  
+
+- 📸 Connect with me on [Instagram](#)  
+- 📧 Email me at [your-email@example.com](mailto:your-email@example.com)  
+
+---
+
+### 🔥 Featured Projects  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=purna888&repo=your-repo-name&theme=vue-dark)](https://github.com/purna888/your-repo-name)  
+
+---
+
+## ✨ Dynamic Quotes  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=purna888&style=flat-square&color=blue)
